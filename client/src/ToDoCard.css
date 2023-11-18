@@ -1,0 +1,8 @@
+#to-do-card {
+    margin: 0.5em;
+}
+
+#to-do-card .card-header {
+    display: flex;
+    justify-content: space-between;
+}
